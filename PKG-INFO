@@ -1,3 +1,25 @@
+Metadata-Version: 2.4
+Name: ApkPatcherX
+Version: 1.8
+Summary: Smali Patcher ( Bypass 𒁍 SSL & Flutter SSL, VPN, USB Debugging, Screen Restrict, One Device Login, Spoof Info & Package Detection, Ads, AES Logs Inject, TG Patch, Pine HooK )
+Author-email: RK_TECHNO_INDIA <TechnoIndian786@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/TechnoIndian/ApkPatcher
+Project-URL: Repository, https://github.com/TechnoIndian/ApkPatcher.git
+Project-URL: Issues, https://github.com/TechnoIndian/ApkPatcher/issues
+Keywords: ApkPatcher
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+Requires-Dist: r2pipe
+Requires-Dist: asn1crypto
+Requires-Dist: multiprocess
+Dynamic: license-file
+
 <p align="center">
 <a href="https://t.me/rktechnoindians"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
